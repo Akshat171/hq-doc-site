@@ -1,0 +1,24 @@
+{
+  "commit": "7f9799b51148bcb92246cf610507b98c217acf00",
+  "generated": "Tue, 28 Jan 2025 11:05:59 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "5f42eb13413827520eebbafc0713f0f4d0449d8b",
+        "hash": "2929166966",
+        "path": "outstatic/content/docs/this-is-test-document.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T11:38:16.991Z",
+      "slug": "this-is-test-document",
+      "status": "published",
+      "title": "This is test document"
+    }
+  ]
+}
